@@ -3,13 +3,13 @@
 </h1>
 
 <h4 align="center">
-  Twitter Clone App com ReactJs, Styled-Components, NodeJs
+  Twitter Clone App com ReactJs, Styled-Components, NodeJs, Deploy no Netlify
   <br>
   <br>
 </h4>
 
 <h3 align="center">
-  <a href="https://my-cloneflix.netlify.app/">CLONEFLIX SITE</a>
+  <a href="https://clone-twitter-site.netlify.app/">Twitter SITE</a>
   <br>
 </h3>
 
